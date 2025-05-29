@@ -112,3 +112,6 @@ A aplicação é composta por um conjunto de agentes, cada um com responsabilida
 
 6. O relatório será gerado em:  
 `planilhas/Resultado_Consolidado.xlsx`
+
+# Observações:
+O agent fica em "Thinking por muito tempo e não dá nenhuma resposta"

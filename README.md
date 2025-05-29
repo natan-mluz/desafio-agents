@@ -99,3 +99,16 @@ A aplicação é composta por um conjunto de agentes, cada um com responsabilida
 
 1. Clone o repositório:
 
+2. Instale as dependências:
+"pip install -r requirements.txt"
+
+3. Configure a variável de ambiente no arquivo `.env`:
+"GROQ_API_KEY=sua_chave_groq"
+
+4. Insira as planilhas de entrada na pasta `planilhas/` conforme a estrutura indicada.
+
+5. Execute o script:
+"python main.py"
+
+6. O relatório será gerado em:  
+`planilhas/Resultado_Consolidado.xlsx`
